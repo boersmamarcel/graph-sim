@@ -1,0 +1,11 @@
+pandas
+cython
+pot
+scipy
+numpy
+scikit-learn
+scikit-learn-extra
+networkx
+pandas
+tqdm
+auto-sklearn
